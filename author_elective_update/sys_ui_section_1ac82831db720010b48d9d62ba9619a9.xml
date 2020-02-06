@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Header for The Test View" section_id="1ac82831db720010b48d9d62ba9619a9" sys_domain="global" table="x_58872_needit_needit" version="3" view="Test_View">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-06 17:18:42</sys_created_on>
+            <sys_id>eac82831db720010b48d9d62ba9619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Header for The Test View" display_value="Header for The Test View" name="x_58872_needit_needit" sys_domain="global" view="56c82831db720010b48d9d62ba9619a4">1ac82831db720010b48d9d62ba9619a9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-06 17:18:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-06 17:18:42</sys_created_on>
+            <sys_id>6ec82831db720010b48d9d62ba9619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Header for The Test View" display_value="Header for The Test View" name="x_58872_needit_needit" sys_domain="global" view="56c82831db720010b48d9d62ba9619a4">1ac82831db720010b48d9d62ba9619a9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-06 17:18:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Header for The Test View</caption>
+            <header>false</header>
+            <name>x_58872_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-06 17:18:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ac82831db720010b48d9d62ba9619a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Header for The Test View</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_1ac82831db720010b48d9d62ba9619a9</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-06 17:18:41</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Test View" name="Test_View">56c82831db720010b48d9d62ba9619a4</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>4b58021ddb9cf3048aea21c40596191d</instance_id>
+        <instance_name>dev75947</instance_name>
+        <name>sys_ui_section_1ac82831db720010b48d9d62ba9619a9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Header for The Test View" section_id="1ac82831db720010b48d9d62ba9619a9" sys_domain="global" table="x_58872_needit_needit" version="3" view="Test_View"><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-06 17:18:42</sys_created_on><sys_id>eac82831db720010b48d9d62ba9619c5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Header for The Test View" display_value="Header for The Test View" name="x_58872_needit_needit" sys_domain="global" view="56c82831db720010b48d9d62ba9619a4">1ac82831db720010b48d9d62ba9619a9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-06 17:18:42</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-06 17:18:42</sys_created_on><sys_id>6ec82831db720010b48d9d62ba9619c5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Header for The Test View" display_value="Header for The Test View" name="x_58872_needit_needit" sys_domain="global" view="56c82831db720010b48d9d62ba9619a4">1ac82831db720010b48d9d62ba9619a9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-06 17:18:42</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Header for The Test View</caption><header>false</header><name>x_58872_needit_needit</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-06 17:18:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1ac82831db720010b48d9d62ba9619a9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Header for The Test View</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_section_1ac82831db720010b48d9d62ba9619a9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-06 17:18:41</sys_updated_on><sys_user/><title>false</title><view display_value="Test View" name="Test_View">56c82831db720010b48d9d62ba9619a4</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1157926436</payload_hash>
+        <record_name>NeedIt</record_name>
+        <reverted_from/>
+        <source>ad772f45db7a0010b48d9d62ba9619a6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 17:18:42</sys_created_on>
+        <sys_id>e2c82831db720010b48d9d62ba9619c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1701b82ce140000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 17:18:42</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>6ec828313c720010f253561a0737f3c6</update_guid>
+        <update_guid_history>6ec828313c720010f253561a0737f3c6:-1157926436</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 20:37:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>02b791bb47de44b0aca09db97cb5ba44</sys_id>
+        <sys_metadata>1ac82831db720010b48d9d62ba9619a9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Header for The Test View</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt">45007fcd0fa83200cd674f8ce1050ebc</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_1ac82831db720010b48d9d62ba9619a9</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_1ac82831db720010b48d9d62ba9619a9">e2c82831db720010b48d9d62ba9619c7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 20:37:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
